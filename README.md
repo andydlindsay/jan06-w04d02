@@ -7,3 +7,13 @@
 - [ ] Intro to jQuery
 - [ ] Element creation and DOM manipulation with jQuery
 - [ ] Event handling with jQuery
+
+
+### The DOM
+- The Document Object Model
+- tree
+
+
+```js
+app.get('/', () => {});
+```
